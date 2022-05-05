@@ -1,0 +1,3 @@
+[submodule "frontend/frontend/qgroundcontrol"]
+	path = frontend/frontend/qgroundcontrol
+	url = https://github.com/mavlink/qgroundcontrol.git
