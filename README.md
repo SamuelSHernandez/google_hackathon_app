@@ -1,3 +1,3 @@
 # frontend
 
-Custom build of QGC for avalanche rescue
+Custom build of QGC for Avidrone Avalanche Rescue
