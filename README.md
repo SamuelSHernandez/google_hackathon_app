@@ -1,3 +1,3 @@
-# frontend
+# OpenGSA Authentication web app
 
-Custom build of QGC for Avidrone Avalanche Rescue
+<!--TODO add event description-->
